@@ -25,3 +25,14 @@ This study employs advanced analytical techniques to examine:
 - **Clustering Validation**: K-means clustering with Principal Component Analysis (PCA)
 - **Temporal Analysis**: Annual publication trends and thematic evolution
 
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- Jupyter Notebook or JupyterLab
+
+
+## 📚 Citation
+
+If you use this dataset or code
